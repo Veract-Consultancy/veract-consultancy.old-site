@@ -225,7 +225,7 @@ nav ul li a:hover, nav ul li a:focus { text-decoration: none; color: rgba(255, 2
 /* ==========================================================================
 Hero
 ========================================================================== */
-.hero { background: url('../img/Image20171001214502.jpg') no-repeat center center; -webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover; background-size: cover; padding: 65px 0 300px 0; height: auto; }
+.hero { background: url('../img/hero-bg.jpg') no-repeat center center; -webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover; background-size: cover; padding: 65px 0 300px 0; height: auto; }
 .hero h1 { font-size: 50px; letter-spacing: 12px; margin: 10px; font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif}
 .hero h1 span { color: #a1a9b0; display: inline-block; }
 .hero p { letter-spacing: 1px; font-family: Arial, Helvetica, sans-serif; font-size: 20px; color: #353535;}
